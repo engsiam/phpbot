@@ -1,0 +1,7 @@
+<?php
+
+function getKey(){
+    return 'MTE4ODQzOTI5NDc1OTY4MjEyOA.GlY5op.SxrM7E01Dfhd0r_mZgKLWOEp4S6WHe6sq9Dlj4';
+}
+
+//MTE4ODQzOTI5NDc1OTY4MjEyOA.GlY5op.SxrM7E01Dfhd0r_mZgKLWOEp4S6WHe6sq9Dlj4
